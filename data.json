@@ -12,12 +12,12 @@
   {
     "day" : "1660165200000",
     "price" : "106",
-    "growth" : "false"
+    "growth" : "true"
   },
   {
     "day" : "1660251600000",
     "price" : "109",
-    "growth" : "false"
+    "growth" : "true"
   },
   {
     "day" : "1660338000000",
@@ -32,7 +32,7 @@
   {
     "day" : "1660510800000",
     "price" : "116",
-    "growth": "true"
+    "growth": "false"
   },
   {
     "day" : "1660597200000",
@@ -57,12 +57,12 @@
   {
     "day" : "1660165200000",
     "price" : "106",
-    "growth" : "false"
+    "growth" : "true"
   },
   {
     "day" : "1660251600000",
     "price" : "109",
-    "growth" : "false"
+    "growth" : "true"
   },
   {
     "day" : "1660338000000",
@@ -77,7 +77,7 @@
   {
     "day" : "1660510800000",
     "price" : "116",
-    "growth": "true"
+    "growth": "false"
   },
   {
     "day" : "1660597200000",
@@ -87,6 +87,6 @@
   {
     "day" : "1660683600000",
     "price" : "114",
-    "growth": "true"
+    "growth": "false"
   }
 ]
