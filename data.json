@@ -1,27 +1,27 @@
 [
   {
     "day" : "1659312000",
-    "price" : "1000",
+    "value" : "1000",
     "growth" : "false"
   },
   {
     "day" : "1659398400",
-    "price" : "1100",
+    "value" : "1100",
     "growth" : "true"
   },
   {
     "day" : "1659484800",
-    "price" : "1100",
+    "value" : "1100",
     "growth" : "false"
   },
   {
     "day" : "1659571200",
-    "price" : "1050",
+    "value" : "1050",
     "growth" : "false"
   },
   {
     "day" : "1659657600",
-    "price" : "1110",
+    "value" : "1110",
     "growth": "true"
   }
 ]
