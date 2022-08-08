@@ -1,962 +1,162 @@
 [
   {
     "day": 1659992400000,
-    "price": 95,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 95
   },
   {
     "day": 1660078800000,
-    "price": 92,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 92
   },
   {
     "day": 1660165200000,
-    "price": 96,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 96
   },
   {
     "day": 1660251600000,
-    "price": 91,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 91
   },
   {
     "day": 1660338000000,
-    "price": 95,
-    "color": {
-      "_hex": 5288704
-    }
+    "price": 95
   },
   {
     "day": 1660424400000,
-    "price": 99,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 99
   },
   {
     "day": 1660510800000,
-    "price": 95,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 95
   },
   {
     "day": 1660597200000,
-    "price": 97,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 97
   },
   {
     "day": 1660683600000,
-    "price": 95,
-    "color": {
-      "_hex": 11730944
-    }
+    "price": 95
   },
   {
     "day": 1660770000000,
-    "price": 90,
-    "color": {
-      "_hex": 11730944
-    }
+    "price": 90
   },
   {
     "day": 1660856400000,
-    "price": 88,
-    "color": {
-      "_hex": 11730944
-    }
+    "price": 88
   },
   {
     "day": 1660942800000,
-    "price": 87,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 87
   },
   {
     "day": 1661029200000,
-    "price": 92,
-    "color": {
-      "_hex": 5288704
-    }
+    "price": 92
   },
   {
     "day": 1661115600000,
-    "price": 94,
-    "color": {
-      "_hex": 5288704
-    }
+    "price": 94
   },
   {
     "day": 1661202000000,
-    "price": 96,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 96
   },
   {
     "day": 1661288400000,
-    "price": 93,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 93
   },
   {
     "day": 1661374800000,
-    "price": 95,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 95
   },
   {
     "day": 1661461200000,
-    "price": 93,
-    "color": {
-      "_hex": 11730944
-    }
+    "price": 93
   },
   {
     "day": 1661547600000,
-    "price": 90,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 90
   },
   {
     "day": 1661634000000,
-    "price": 94,
-    "color": {
-      "_hex": 5288704
-    }
+    "price": 94
   },
   {
     "day": 1661720400000,
-    "price": 98,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 98
   },
   {
     "day": 1661806800000,
-    "price": 97,
-    "color": {
-      "_hex": 11730944
-    }
+    "price": 97
   },
   {
     "day": 1661893200000,
-    "price": 94,
-    "color": {
-      "_hex": 11730944
-    }
+    "price": 94
   },
   {
     "day": 1661979600000,
-    "price": 90,
-    "color": {
-      "_hex": 11730944
-    }
+    "price": 90
   },
   {
     "day": 1662066000000,
-    "price": 87,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 87
   },
   {
     "day": 1662152400000,
-    "price": 92,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 92
   },
   {
     "day": 1662238800000,
-    "price": 88,
-    "color": {
-      "_hex": 11730944
-    }
+    "price": 88
   },
   {
     "day": 1662325200000,
-    "price": 86,
-    "color": {
-      "_hex": 11730944
-    }
+    "price": 86
   },
   {
     "day": 1662411600000,
-    "price": 82,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 82
   },
   {
     "day": 1662498000000,
-    "price": 82,
-    "color": {
-      "_hex": 5288704
-    }
+    "price": 82
   },
   {
     "day": 1662584400000,
-    "price": 84,
-    "color": {
-      "_hex": 5288704
-    }
+    "price": 84
   },
   {
     "day": 1662670800000,
-    "price": 88,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 88
   },
   {
     "day": 1662757200000,
-    "price": 87,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 87
   },
   {
     "day": 1662843600000,
-    "price": 90,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 90
   },
   {
     "day": 1662930000000,
-    "price": 86,
-    "color": {
-      "_hex": 11730944
-    }
+    "price": 86
   },
   {
     "day": 1663016400000,
-    "price": 85,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 85
   },
   {
     "day": 1663102800000,
-    "price": 88,
-    "color": {
-      "_hex": 5288704
-    }
+    "price": 88
   },
   {
     "day": 1663189200000,
-    "price": 90,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
+    "price": 90
   },
   {
     "day": 1663275600000,
-    "price": 88,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
+    "price": 88
   },
   {
     "day": 1663362000000,
-    "price": 92,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1663448400000,
-    "price": 89,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1663534800000,
-    "price": 87,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1663621200000,
-    "price": 86,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1663707600000,
-    "price": 86,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1663794000000,
-    "price": 89,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1663880400000,
-    "price": 85,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1663966800000,
-    "price": 89,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1664053200000,
-    "price": 88,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1664139600000,
-    "price": 87,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1664226000000,
-    "price": 85,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1664312400000,
-    "price": 88,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1664398800000,
-    "price": 88,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1664485200000,
-    "price": 88,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1664571600000,
-    "price": 86,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1664658000000,
-    "price": 86,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1664744400000,
-    "price": 89,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1664830800000,
-    "price": 87,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1664917200000,
-    "price": 90,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1665003600000,
-    "price": 91,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1665090000000,
-    "price": 90,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1665176400000,
-    "price": 85,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1665262800000,
-    "price": 86,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1665349200000,
-    "price": 90,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1665435600000,
-    "price": 93,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1665522000000,
-    "price": 88,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1665608400000,
-    "price": 90,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1665694800000,
-    "price": 89,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1665781200000,
-    "price": 92,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1665867600000,
-    "price": 90,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1665954000000,
-    "price": 89,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1666040400000,
-    "price": 89,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1666126800000,
-    "price": 86,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1666213200000,
-    "price": 86,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1666299600000,
-    "price": 81,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1666386000000,
-    "price": 78,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1666472400000,
-    "price": 74,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1666558800000,
-    "price": 77,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1666645200000,
-    "price": 77,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1666731600000,
-    "price": 81,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1666818000000,
-    "price": 84,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1666904400000,
-    "price": 80,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1666990800000,
-    "price": 77,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1667077200000,
-    "price": 75,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1667163600000,
-    "price": 72,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1667250000000,
-    "price": 68,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1667336400000,
-    "price": 64,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1667422800000,
-    "price": 69,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1667509200000,
-    "price": 72,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1667595600000,
-    "price": 68,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1667682000000,
-    "price": 65,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1667768400000,
-    "price": 62,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1667854800000,
-    "price": 60,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1667941200000,
-    "price": 64,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1668027600000,
-    "price": 61,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1668114000000,
-    "price": 62,
-    "color": {
-      "_hex": 5288704
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 11730944
-      }
-    }
-  },
-  {
-    "day": 1668200400000,
-    "price": 60,
-    "color": {
-      "_hex": 11730944
-    }
-  },
-  {
-    "day": 1668286800000,
-    "price": 59,
-    "color": {
-      "_hex": 11730944
-    },
-    "strokeSettings": {
-      "stroke": {
-        "_hex": 5288704
-      }
-    }
-  },
-  {
-    "day": 1668373200000,
-    "price": 59,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1668459600000,
-    "price": 59,
-    "color": {
-      "_hex": 5288704
-    }
-  },
-  {
-    "day": 1668546000000,
-    "price": 62,
-    "color": {
-      "_hex": 5288704
-    }
+    "price": 92
   }
 ]
